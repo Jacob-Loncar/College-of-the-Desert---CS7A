@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529291690 source:c:\users\jacob\desktop\cs7a github\menu\main.cpp
+	<iostream>
+	<iomanip>
+

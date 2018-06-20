@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529295590 source:c:\users\jacob\desktop\cs7a github\lawofcosine\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
