@@ -1,6 +1,6 @@
 /*****************************************************************************
 **                                                                          **
-**                   LAB EXERCISE 1: Modification                           **
+**                   LAB 1 EXERCISE 4: Modification                         **
 **                                                                          **
 **      This program will prompt a user to enter in a four digit            **
 **      number and it will print out the individual digits. Then it         **

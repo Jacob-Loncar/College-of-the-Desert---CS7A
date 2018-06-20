@@ -1,6 +1,6 @@
 /*****************************************************************************
 **                                                                          **
-**                   LAB EXERCISE 1: Menu                                   **
+**                   LAB 1 EXERCISE 2: Menu                                 **
 **                                                                          **
 **      This program prints out a mean that will be used in my              **
 **      Banking Application.                                                **

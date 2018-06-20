@@ -1,6 +1,6 @@
 /*****************************************************************************
 **                                                                          **
-**                   LAB EXERCISE 1: Intro Picture                          **
+**                   LAB 1 EXERCISE 1: Intro Picture                        **
 **                                                                          **
 **      This program prints out a self made picture that I will use         **
 **      in my Banking Application.                                          **

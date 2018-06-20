@@ -1,6 +1,6 @@
 /*****************************************************************************
 **                                                                          **
-**                   LAB EXERCISE 1: Arithmetic                             **
+**                   LAB 1 EXERCISE 3: Arithmetic                           **
 **                                                                          **
 **      This program performs a number of arithmetic operations to          **
 **      the two number that the user picks and displays them                **

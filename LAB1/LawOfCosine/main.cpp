@@ -1,6 +1,6 @@
 /*****************************************************************************
 **                                                                          **
-**                   LAB EXERCISE 1: Modification                           **
+**                   LAB 1 EXERCISE 5: Modification                         **
 **                                                                          **
 **      This program will ask for values from a triangle and using          **
 **      the law of cosines, it will calculate the missing information.      **
